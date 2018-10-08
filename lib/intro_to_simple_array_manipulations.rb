@@ -11,8 +11,10 @@ def using_unshift(array,elm)
   array.unshift(elm)
 end
 
-def pop.args(array)
+def pop_with_args(array)
   array.pop(2)
 end
 
-ar
+def shift_with_args(array)
+  array.shift(2)
+end
