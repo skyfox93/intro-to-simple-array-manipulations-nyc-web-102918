@@ -38,5 +38,5 @@ def using_shift(array)
   array.shift
 end
 def using_delete(array,index)
-  array.delete(index)
+  array.delete[index]
 end
