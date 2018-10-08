@@ -23,6 +23,9 @@ def using_concat(array1,array2)
   array1+array2
 end
 
-def using_insert(array,index,obj)
-  array.insert(index,obj)
+def using_insert(array,obj)
+  array.insert(4,obj)
+end
+
+def 
   
