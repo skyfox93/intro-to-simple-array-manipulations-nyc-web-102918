@@ -34,4 +34,8 @@ end
 def using_flatten(array)
   array.flatten
 end
-  
+def using_shift(array)
+  array.shift
+end
+def using_delete(array,index)
+  array.delete()
