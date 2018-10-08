@@ -1,5 +1,5 @@
 def usingpush(array,elm)
-  array.push elm
+  array.push(elm)
   array
 end
 
