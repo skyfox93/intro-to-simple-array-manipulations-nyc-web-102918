@@ -27,5 +27,5 @@ def using_insert(array,obj)
   array.insert(4,obj)
 end
 
-def 
+def using_uniq
   
