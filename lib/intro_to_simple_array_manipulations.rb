@@ -4,4 +4,4 @@ end
 
 def usingpop(array)
   array.arraypop
-  
+end
